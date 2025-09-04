@@ -39,7 +39,6 @@ Now you can count the number of match played by running pig script file
   
   $ pig -x mapreduce '/home/total_counts.pig'
   
-  -- replace maniram with user name of your OS in above line
   
 ```
 
@@ -50,7 +49,6 @@ Now you can extraxt information of each and player and you can find inter relati
 ```
   
   $ pig -x mapreduce '/home/id_to_name.pig'
-  -- replace maniram with user name of your OS in above line
   
 ```
 
